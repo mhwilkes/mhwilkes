@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Mike!
 ### I have a Bachelors Degree in Computer Science and Am a Fellow with the MLH Foundation working with the DoD
-### I and am passionate about coding, mentorship, community outreach, and exploration!
+### I am passionate about coding, mentorship, community outreach, and exploration!
 <a href="https://github.com/mhwilkes/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhwilkes&theme=dracula&layout=compact" />
 </a>
